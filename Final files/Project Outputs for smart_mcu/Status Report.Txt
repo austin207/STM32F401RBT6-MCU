@@ -1,0 +1,44 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [smart_mcu.PrjPcb]
+   Generated File[smartMCUpcb.GTO]
+   Generated File[smartMCUpcb.GTP]
+   Generated File[smartMCUpcb.GTS]
+   Generated File[smartMCUpcb.GTL]
+   Generated File[smartMCUpcb.GP1]
+   Generated File[smartMCUpcb.GP2]
+   Generated File[smartMCUpcb.GBL]
+   Generated File[smartMCUpcb.GBS]
+   Generated File[smartMCUpcb.GBP]
+   Generated File[smartMCUpcb.GBO]
+   Generated File[smartMCUpcb.GM1]
+   Generated File[smartMCUpcb.GM2]
+   Generated File[smartMCUpcb.GM11]
+   Generated File[smartMCUpcb.GM12]
+   Generated File[smartMCUpcb.GM13]
+   Generated File[smartMCUpcb.GM14]
+   Generated File[smartMCUpcb.GM15]
+   Generated File[smartMCUpcb.GM16]
+   Generated File[smartMCUpcb.GM17]
+   Generated File[smartMCUpcb.GM18]
+   Generated File[smartMCUpcb.GM19]
+   Generated File[smartMCUpcb.GM20]
+   Generated File[smartMCUpcb.GM24]
+   Generated File[smartMCUpcb.GKO]
+   Generated File[smartMCUpcb.GPT]
+   Generated File[smartMCUpcb.GPB]
+   Generated File[smartMCUpcb.GML]
+   Generated File[smartMCUpcb.3]
+   Generated File[smartMCUpcb.1]
+   Generated File[smartMCUpcb.2]
+   Generated File[smartMCUpcb.GD1]
+   Generated File[smartMCUpcb.GG1]
+   Generated File[smartMCUpcb.GM]
+   Generated File[smartMCUpcb.EXTREP]
+   Generated File[smartMCUpcb.REP]
+
+
+Files Generated   : 35
+Documents Printed : 0
+
+Finished Output Generation At 01:52:41 AM On 18-06-2025

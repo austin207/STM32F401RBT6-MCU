@@ -1,0 +1,561 @@
+*************************************************************
+FileName = smartMCUpcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 3
+      File : smartMCUpcb.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : smartMCUpcb.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : smartMCUpcb.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : smartMCUpcb.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D41
+    D42
+    D43
+    D45
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : smartMCUpcb.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : smartMCUpcb.GM20
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : smartMCUpcb.GM19
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : smartMCUpcb.GM18
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : smartMCUpcb.GM17
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : smartMCUpcb.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : smartMCUpcb.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : smartMCUpcb.GM14
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : smartMCUpcb.GM13
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+    D12
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : smartMCUpcb.GM12
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : smartMCUpcb.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : smartMCUpcb.GM2
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : smartMCUpcb.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : smartMCUpcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : smartMCUpcb.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D22
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : smartMCUpcb.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : smartMCUpcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D29
+    D32
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : smartMCUpcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : smartMCUpcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : smartMCUpcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : smartMCUpcb.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D37
+    D38
+    D41
+    D42
+    D43
+    D45
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : smartMCUpcb.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D22
+    D37
+    D38
+    D41
+    D42
+    D43
+    D45
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : smartMCUpcb.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D22
+    D37
+    D38
+    D41
+    D42
+    D43
+    D45
+    D50
+    D51
+    D52
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : 3.3v_layer
+      File : smartMCUpcb.GP2
+
+    Adding Layer      : 3.3v_layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : GND_layer
+      File : smartMCUpcb.GP1
+
+    Adding Layer      : GND_layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : smartMCUpcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D37
+    D38
+    D41
+    D42
+    D43
+    D45
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : smartMCUpcb.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : smartMCUpcb.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : smartMCUpcb.GM
+
+
+Used DCodes :
+    D76
+*************************************************************
+
