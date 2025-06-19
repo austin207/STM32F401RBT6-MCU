@@ -1,6 +1,6 @@
 # STM32F401RBT6 Custom Development Board
 
-![3D View of PCB](./assets/Screenshot 2025-06-19 130152.png)
+![3D View of PCB](./assets/screenshot-2025-06-19-130152.png)
 *Custom-designed STM32F4-based microcontroller development board (Altium Designer)*
 
 ---
