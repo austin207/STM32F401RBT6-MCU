@@ -185,4 +185,4 @@ smart_mcu/
 If you're working on embedded systems, designing your own microcontroller boards, or learning Altium, let's connect!
 
 **[Austin@Linkedin](https://www.linkedin.com/in/antony-austin-b7287226a/)**
-**[Austin@GitHub](https://github.com/yourusername/smart_mcu)**
+**[Austin@GitHub](https://github.com/austin207/STM32F401RBT6-MCU.git)**
