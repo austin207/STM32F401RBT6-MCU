@@ -186,3 +186,4 @@ If you're working on embedded systems, designing your own microcontroller boards
 
 **[Austin@Linkedin](https://www.linkedin.com/in/antony-austin-b7287226a/)**
 **[Austin@GitHub](https://github.com/austin207/STM32F401RBT6-MCU.git)**
+**Article: [Austin@Medium](https://medium.com/@austinantony06/my-journey-in-designing-a-custom-stm32-board-a-learning-experience-380ba05609ac)**
